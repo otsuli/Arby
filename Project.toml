@@ -1,0 +1,3 @@
+[deps]
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+YFinance = "e4b3b0a2-f9a3-42f3-aabb-32142cceaf77"
